@@ -1,0 +1,10 @@
+# Ignore everything by default
+/*
+
+# Keep the repository documentation and ignore rules
+!/README.md
+!/.gitignore
+
+# Keep only the Final solutions folder and everything inside it
+!/Final/
+!/Final/**
